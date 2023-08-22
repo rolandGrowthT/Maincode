@@ -86,6 +86,7 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
                             child: TextButton(
                               onPressed: () {
                                 context.read<GuestBloc>().add(onclear());
+                                context.read<GuestBloc>().add(checkvalidity());
                               },
                               child: Text(
                                 'Clear',
