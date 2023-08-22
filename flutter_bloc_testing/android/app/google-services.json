@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84111205186",
+    "project_id": "bloctesting-db5a5",
+    "storage_bucket": "bloctesting-db5a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84111205186:android:76e84389b1d66c24a81edb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bloc_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84111205186-82pe9qmroh30ar8e4i9cmlv3u9mbg6t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHAY7ILTgRUhdQODr957sCfC-KB76j6XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84111205186-82pe9qmroh30ar8e4i9cmlv3u9mbg6t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

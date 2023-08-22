@@ -1,0 +1,1 @@
+enum SignupStatus{none,successfullogin,unsuccessfullogin,loading}
